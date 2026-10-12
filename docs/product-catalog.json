@@ -491,7 +491,7 @@
     {
       "id": "wakaru",
       "name": "Wakaru",
-      "version": "1.13.0",
+      "version": "1.14.0",
       "capabilities": ["recover_javascript_sources"]
     }
   ],
@@ -675,10 +675,10 @@
       "mcp_prompts": 6
     },
     "digests": {
-      "tools_sha256": "a493c05cd1618b5626b7f5ef3dfa214886917ac1b04716054ab9de100bddd468",
+      "tools_sha256": "248388c22e8ed49cb6e96881f4949a75763f9483502b4a53b0b59a80b7b2c3fa",
       "prompts_sha256": "ef2de8814390b340623c32001610aa2709d90bed51537b6e562ab3abf144ab4d",
-      "combined_sha256": "8c32372537b3d12e1f0befc51b8b9a5d083d37041eac3ceb1ba9d0a3f1853b2c",
-      "providers_sha256": "aea15f517c822d80918ccaba57a4fa06557f484cf27b8acbaed4e1a660fac896"
+      "combined_sha256": "9d852a51b2e63e0f648f33a7220e0955cca0e9bfe070845a0da1ef30de4413ef",
+      "providers_sha256": "5c0565c5fc81e8e1fe5b48faeaad5c9b3a8b2e8edd857cb44c9d0d820957df86"
     }
   }
 }

@@ -4,7 +4,7 @@ import { dirname, join } from "node:path";
 const args = process.argv.slice(2);
 const mode = process.env.REA_RECOVERY_FIXTURE_MODE ?? "normal";
 if (args.includes("--version")) {
-  console.log(mode === "wrong-version" ? "wakaru 0.0.0" : "wakaru 1.13.0");
+  console.log(mode === "wrong-version" ? "wakaru 0.0.0" : "wakaru 1.14.0");
 } else {
   const input = args[0];
   const output = args[args.indexOf("-o") + 1];

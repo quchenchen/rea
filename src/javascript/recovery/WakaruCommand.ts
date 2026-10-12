@@ -45,7 +45,7 @@ export const resolveWakaruCommand = async (
     throw new AnalysisCapabilityUnavailableError(
       "wakaru",
       OPERATION,
-      "Provide an absolute REA_WAKARU_COMMAND pointing to Wakaru 1.13.0 on Linux x64; no tool is installed by REA",
+      "Provide an absolute REA_WAKARU_COMMAND pointing to Wakaru 1.14.0 on Linux x64; no tool is installed by REA",
     );
   try {
     const command = await realpath(configured);

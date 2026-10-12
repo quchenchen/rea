@@ -1,7 +1,7 @@
 /** Unchanged upstream source pin; executed bytes are identified separately. */
 export const WAKARU_RELEASE = {
-  version: "1.13.0",
-  revision: "6070266d24b32951fa2fe1d2dad5b4313bd5c81b",
+  version: "1.14.0",
+  revision: "8219bf5016a063d7fb215101a8c45d5959ec733f",
   repository: "https://github.com/pionxzh/wakaru",
 } as const;
 

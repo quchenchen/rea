@@ -450,7 +450,7 @@ Static Android APK inspection supports Linux and macOS; the current metadata bri
   Recover readable modules from selected local bundles with
   `recover_javascript_sources` / `rea recover-javascript-sources`, then pass
   the returned `analysis_input` to static analysis. This optional Linux x64
-  adapter requires caller-supplied Wakaru 1.13.0; see
+  adapter requires caller-supplied Wakaru 1.14.0; see
   [JavaScript source recovery](docs/javascript-recovery.md).
 
 - **Electron and Node runtime observation:** Inspect selected Electron pages or attach to a Node/Electron V8 Inspector target. Inspector observation records script locations and execution-context events; it does not infer imports, IPC activity, or which modules executed. See [runtime observation](docs/javascript-runtime-observation.md).
